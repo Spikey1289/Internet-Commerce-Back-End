@@ -73,4 +73,4 @@ If you do not have mysql installed, or have not set up your MYSQL root password,
 
 
 ### Link to Video Walkthrough
-[Click me!]()
+[Click me!](https://drive.google.com/file/d/1bt8NkappyorpPz59LlHL_DsUCnuZVYAe/view?usp=sharing)
